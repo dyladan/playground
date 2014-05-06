@@ -9,3 +9,6 @@
 [submodule "pios"]
 	path = pios
 	url = git@github.com:scott-linder/pios
+[submodule "euler"]
+	path = euler
+	url = git@github.com:dyladan/euler
