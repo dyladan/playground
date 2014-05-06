@@ -1,0 +1,11 @@
+[submodule "alan"]
+	path = alan
+	url = git@github.com:dyladan/alan
+
+[submodule "ABC"]
+	path = ABC
+	url = git@github.com:dyladan/ABC
+
+[submodule "pios"]
+	path = pios
+	url = git@github.com:scott-linder/pios
